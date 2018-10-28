@@ -50,3 +50,6 @@ print("F1: ", fscore)
 print("")
 print("Where 0 = Win and 1 = Lose:")
 print(y_pred)
+
+#data_cleaned.to_csv('train_m.csv',encoding='utf-8', index=False)
+#test_cleaned.to_csv('test_m.csv',encoding='utf-8', index=False)
